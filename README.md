@@ -42,4 +42,4 @@ Jogo educativo desenvolvido como trabalho de conclusão do curso técnico de Pro
 
 ## Contato
 
-Você pode entrar em contato comigo pelo meu perfil do GitHub.
+Você pode entrar em contato comigo pelo meu perfil do GitHub ou pelo email: nadolnyjoaovitor@gmail.com.
