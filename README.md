@@ -1,16 +1,45 @@
-## Hi there 👋
+# João Vitor Nadolny
 
-<!--
-**NadolnyJoao/NadolnyJoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na UTFPR, com interesse em desenvolvimento back-end, bancos de dados e construção de sistemas.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo minha base em programação por meio da faculdade e de projetos pessoais. Tenho estudado principalmente C, Java, orientação a objetos, estruturas de dados e Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em aprendizado
+
+* C
+* Java
+* Programação orientada a objetos
+* Estruturas de dados
+* Git e GitHub
+* SQL e bancos de dados
+
+## Projetos
+
+### Sistema de Gerenciamento de Atividades
+
+Aplicação desenvolvida em Java para praticar orientação a objetos, separação de responsabilidades, coleções e construção de interfaces.
+
+[Ver projeto](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
+
+### Projeto de Gerenciamento em C
+
+Sistema de terminal para gerenciamento de produtos, estoque e pedidos. O projeto acompanha meu aprendizado de estruturas, ponteiros, alocação dinâmica e persistência de dados.
+
+[Ver projeto](https://github.com/NadolnyJoao/ProjetoBackEndC)
+
+### ArcheType
+
+Jogo educativo desenvolvido como trabalho de conclusão do curso técnico de Programação de Jogos Digitais, em colaboração com outros estudantes.
+
+[Ver projeto](https://github.com/NadolnyJoao/ArcheType-TCC)
+
+## Objetivos atuais
+
+* Aprofundar meus conhecimentos em Java e C
+* Aprender SQL e bancos de dados relacionais
+* Desenvolver minha primeira API REST
+* Construir uma base sólida para atuar com back-end
+
+## Contato
+
+Você pode entrar em contato comigo pelo meu perfil do GitHub.
