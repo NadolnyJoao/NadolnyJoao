@@ -3,7 +3,7 @@
 Estudante de Sistemas de Informação na UTFPR, com interesse em desenvolvimento back-end, bancos de dados e construção de sistemas.
 
 Atualmente estou desenvolvendo minha base em programação por meio da faculdade e de projetos pessoais. Tenho estudado principalmente C, Java, orientação a objetos, estruturas de dados e Git.
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NadolnyJoao&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=NadolnyJoao&langs_count=5&theme=dark)
 ## Tecnologias em aprendizado
 
 * C
