@@ -1,5 +1,12 @@
 # João Vitor Nadolny
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
+</p>
+
+
+
 Estudante de Sistemas de Informação na UTFPR, com interesse em desenvolvimento back-end, bancos de dados e construção de sistemas.
 
 Atualmente estou desenvolvendo minha base em programação por meio da faculdade e de projetos pessoais. Tenho estudado principalmente C, Java, orientação a objetos, estruturas de dados e Git.
@@ -44,7 +51,3 @@ Jogo educativo desenvolvido como trabalho de conclusão do curso técnico de Pro
 
 Você pode entrar em contato comigo pelo meu perfil do GitHub ou pelo email: nadolnyjoaovitor@gmail.com.
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
-</p>
