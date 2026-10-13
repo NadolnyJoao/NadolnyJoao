@@ -1,15 +1,17 @@
 #                                       <p align="center">João Vitor Nadolny</p>
 
 
+
+Estudante de Sistemas de Informação na UTFPR, com interesse em desenvolvimento back-end, bancos de dados e construção de sistemas.
+
+Atualmente estou desenvolvendo minha base em programação por meio da faculdade e de projetos pessoais. Tenho estudado principalmente C, Java, orientação a objetos, estruturas de dados e Git.
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
 </p>
 
 
-
-Estudante de Sistemas de Informação na UTFPR, com interesse em desenvolvimento back-end, bancos de dados e construção de sistemas.
-
-Atualmente estou desenvolvendo minha base em programação por meio da faculdade e de projetos pessoais. Tenho estudado principalmente C, Java, orientação a objetos, estruturas de dados e Git.
 
 ## Tecnologias em aprendizado
 
