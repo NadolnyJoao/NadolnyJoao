@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e explorar conceitos de <strong>Segurança da Informação (Cybersec)</strong>.
+  Focado em construir uma base no desenvolvimento <strong>Back-end</strong> e explorar conceitos de <strong>Segurança da Informação (Cybersec)</strong>.
 </p>
 
 <p align="center">
