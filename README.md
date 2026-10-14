@@ -31,7 +31,7 @@
 ### 1. [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
 Aplicação desenvolvida em **Java** com foco em orientação a objetos, separação de responsabilidades, manipulação de coleções e estruturação de interfaces.
 
-### 2. [Sistema de Gerenciamento em C](https://github.com/NadolnyJoao/ProjetoBackEndC)
+### 2. [Sistema de Controle de Estoque em C](https://github.com/NadolnyJoao/ProjetoBackEndC)
 Sistema de terminal voltado para o gerenciamento de produtos, estoque e pedidos. Focado em consolidar o uso de estruturas, ponteiros, alocação dinâmica de memória e persistência de dados.
 
 ### 3. [ArcheType (TCC)](https://github.com/NadolnyJoao/ArcheType-TCC)
