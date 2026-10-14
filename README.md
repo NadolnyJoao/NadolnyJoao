@@ -14,6 +14,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
 </p>
 
+
+<p align="center">
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NadolnyJoao)](https://github.com/stats-organization/github-stats-extended)
+</p>
+
+
 ---
 
 ## 🛠️ Tecnologias e Fundamentos
