@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Estudante de Sistemas de Informação na UTFPR • Técnico em Programação de Jogos (IFPR)
+  Estudante de Sistemas de Informação na UTFPR • Técnico em Programação (IFPR)
 </p>
 
 <p align="center">
