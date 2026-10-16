@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadolnyJoao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=tokyonight&hide_border=true&hide=C%23,ShaderLab,HLSL" alt="Top Languages" />
+  <a href="https://github.com/NadolnyJoao">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=tokyonight&hide_border=true" alt="Streak" />
+  </a>
+  <a href="https://github.com/NadolnyJoao">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=tokyonight&hide_border=true&hide=C%23" alt="Top Languages" />
+  </a>
 </p>
 
 ---
