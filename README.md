@@ -14,6 +14,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
 </p>
 
+<p aling="center">
+  ![Nadolny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadolnyJoao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+</p>
 
 ---
 
