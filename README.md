@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadolnyJoao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=tokyonight&hide_border=true&hide=C#" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=tokyonight&hide_border=true&hide=C%23,ShaderLab,HLSL" alt="Top Languages" />
 </p>
 
 ---
