@@ -13,7 +13,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
   </a>
   <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=react&hide_border=true&hide=C%23,ShaderLab" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=react&hide_border=true&hide=C%23,ShaderLab,HLSL" alt="Top Languages" />
   </a>
 </p>
 
@@ -22,9 +22,13 @@
 ## Tecnologias e Fundamentos
 
 - **Linguagens:** C, Java
+
 - **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
+
 - **Banco de Dados:** SQL e Bancos Relacionais (em aprendizado)
+
 - **Ferramentas:** Git, GitHub e ambientes Linux/Terminal
+
 
 ---
 
@@ -44,13 +48,18 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 ## Objetivos Atuais
 
 - Aprofundar lógica avançada e arquitetura de software com **Java**.
+
 - Desenvolver e consumir **APIs REST** robustas e seguras.
+
 - Estudar redes, criptografia e fundamentos de **Cybersecurity**.
+
 - Consolidar conhecimentos em modelagem e otimização de bancos de dados relacionais e não relacionais.
+
 
 ---
 
 ## Contato
 
 - **E-mail:** nadolnyjoaovitor@gmail.com
+
 - **GitHub:** [NadolnyJoao](https://github.com/NadolnyJoao)
