@@ -1,26 +1,24 @@
-<p align="center">
-  <h1 align="center">João Vitor Nadolny</h1>
-</p>
+<h1 align="center">João Vitor Nadolny</h1>
 
 <p align="center">
   Estudante de Sistemas de Informação na UTFPR • Técnico em Programação (IFPR)
 </p>
 
 <p align="center">
-  Focado em construir uma base no desenvolvimento <strong>Back-end</strong> e explorar conceitos de <strong>Segurança da Informação (Cybersec)</strong>.
+  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e explorar conceitos de <strong>Segurança da Informação (Cybersec)</strong>.
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
 </p>
 
-<p aling="center">
-  ![Nadolny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadolnyJoao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NadolnyJoao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-##  Tecnologias e Fundamentos
+## Tecnologias e Fundamentos
 
 - **Linguagens:** C, Java
 - **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
@@ -29,7 +27,7 @@
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
 ### 1. [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
 Aplicação desenvolvida em **Java** com foco em orientação a objetos, separação de responsabilidades, manipulação de coleções e estruturação de interfaces.
@@ -42,16 +40,16 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 
 ---
 
-##  Objetivos Atuais
+## Objetivos Atuais
 
 - Aprofundar lógica avançada e arquitetura de software com **Java**.
 - Desenvolver e consumir **APIs REST** robustas e seguras.
 - Estudar redes, criptografia e fundamentos de **Cybersecurity**.
-- Consolidar conhecimentos em modelagem e otimização de bancos de dados relacional e não relacional.
+- Consolidar conhecimentos em modelagem e otimização de bancos de dados relacionais e não relacionais.
 
 ---
 
-##  Contato
+## Contato
 
 - **E-mail:** nadolnyjoaovitor@gmail.com
 - **GitHub:** [NadolnyJoao](https://github.com/NadolnyJoao)
