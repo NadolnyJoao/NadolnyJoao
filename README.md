@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=tokyonight&hide_border=true" alt="Streak" height="195" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
   </a>
   <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=tokyonight&hide_border=true&hide=C%23&langs_count=6" alt="Top Languages" height="195" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&theme=react&hide_border=true&hide=C%23" alt="Top Languages" />
   </a>
 </p>
 
