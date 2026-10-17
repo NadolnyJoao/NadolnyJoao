@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e explorar conceitos de <strong>Segurança da Informação (Cybersec)</strong>.
-</p>
+  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong>
 
 <p align="center">
   <a href="https://github.com/NadolnyJoao">
@@ -50,8 +49,6 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 - Aprofundar lógica avançada e arquitetura de software com **Java**.
 
 - Desenvolver e consumir **APIs REST** robustas e seguras.
-
-- Estudar redes, criptografia e fundamentos de **Cybersecurity**.
 
 - Consolidar conhecimentos em modelagem e otimização de bancos de dados relacionais e não relacionais.
 
