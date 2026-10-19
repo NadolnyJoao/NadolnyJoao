@@ -6,6 +6,7 @@
 
 <p align="center">
   Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/NadolnyJoao">
@@ -21,13 +22,9 @@
 ## Tecnologias e Fundamentos
 
 - **Linguagens:** C, Java
-
 - **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
-
 - **Banco de Dados:** SQL e Bancos Relacionais (em aprendizado)
-
 - **Ferramentas:** Git, GitHub e ambientes Linux/Terminal
-
 
 ---
 
@@ -36,8 +33,8 @@
 ### 1. [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
 Aplicação desenvolvida em **Java** com foco em orientação a objetos, separação de responsabilidades, manipulação de coleções e estruturação de interfaces.
 
-### 2. [Sistema de Controle de Estoque em C](https://github.com/NadolnyJoao/ProjetoBackEndC)
-Sistema de terminal voltado para o gerenciamento de produtos, estoque e pedidos. Focado em consolidar o uso de estruturas, ponteiros, alocação dinâmica de memória e persistência de dados.
+### 2. [SHIT - Simple Hash Information Tracker](https://github.com/NadolnyJoao/SHIT---Simple-Hash-Information-Tracker)
+Projeto educacional focado na recriação simplificada das principais funcionalidades do Git (`init`, `add`, `commit`, `revert`, `log` e `status`). Desenvolvido com o objetivo de compreender a fundo os mecanismos internos de controle de versão e a manipulação de dados via hashing, em parceria com [Pedro Vitor](https://github.com/PedroVitor-oss).
 
 ### 3. [ArcheType (TCC)](https://github.com/NadolnyJoao/ArcheType-TCC)
 Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técnico em Programação de Jogos Digitais (IFPR), servindo como base inicial para lógica de programação e trabalho colaborativo.
@@ -47,16 +44,12 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 ## Objetivos Atuais
 
 - Aprofundar lógica avançada e arquitetura de software com **Java**.
-
 - Desenvolver e consumir **APIs REST** robustas e seguras.
-
 - Consolidar conhecimentos em modelagem e otimização de bancos de dados relacionais e não relacionais.
-
 
 ---
 
 ## Contato
 
 - **E-mail:** nadolnyjoaovitor@gmail.com
-
 - **GitHub:** [NadolnyJoao](https://github.com/NadolnyJoao)
