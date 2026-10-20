@@ -13,7 +13,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&theme=react&hide_border=true" alt="Streak" />
   </a>
   <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=react&hide_border=true&hide=C%23,ShaderLab,HLSL" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&layout=compact&theme=react&hide_border=true&hide=ShaderLab,HLSL" alt="Top Languages" />
   </a>
 </p>
 
