@@ -54,9 +54,4 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 - **E-mail:** nadolnyjoaovitor@gmail.com
 - **GitHub:** [NadolnyJoao](https://github.com/NadolnyJoao)
 
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Torvalds&color=1A56A0&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
-</p>
-
-<p align="center"><i>""Primeiro resolva o problema. Depois, escreva o código." — John Johnson"</i></p>
+  <p align="center"><i>""Primeiro resolva o problema. Depois, escreva o código." — John Johnson"</i></p>
