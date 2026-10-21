@@ -28,15 +28,16 @@
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
-
-- **Banco de Dados:** Bancos Relacionais (em aprendizado)
-
 - **Ferramentas:** 
   
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
+
+- **Banco de Dados:** Bancos Relacionais (em aprendizado)
+
 
 ---
 
