@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong>
+  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e <strong>Cybersecurity</strong>
 </p>
 
 <p align="center">
@@ -21,9 +21,17 @@
 
 ## Tecnologias e Fundamentos
 
-- **Linguagens:** C, Java
+- **Linguagens:** 
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 - **Conceitos:** Programação Orientada a Objetos (POO), Estruturas de Dados, Alocação Dinâmica e Ponteiros
+
 - **Banco de Dados:** SQL e Bancos Relacionais (em aprendizado)
+
 - **Ferramentas:** Git, GitHub e ambientes Linux/Terminal
 
 ---
@@ -54,4 +62,4 @@ Jogo educativo desenvolvido em equipe como Trabalho de Conclusão de Curso Técn
 - **E-mail:** nadolnyjoaovitor@gmail.com
 - **GitHub:** [NadolnyJoao](https://github.com/NadolnyJoao)
 
-  <p align="center"><i>""Primeiro resolva o problema. Depois, escreva o código." — John Johnson"</i></p>
+<p align="center"><i>"Primeiro resolva o problema. Depois, escreva o código." — John Johnson</i></p>
