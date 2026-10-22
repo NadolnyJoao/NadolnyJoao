@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e <strong>Cybersecurity</strong>
-</p>
+  Focado em construir uma base sólida em desenvolvimento <strong>Back-end</strong> e <strong>Lógica de programação</strong>
 
 <p align="center">
   <a href="https://github.com/NadolnyJoao">
