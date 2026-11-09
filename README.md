@@ -44,9 +44,6 @@ Nos meus projetos, pratico orientação a objetos, estruturas de dados, ponteiro
   <a href="https://github.com/NadolnyJoao">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&amp;theme=react&amp;hide_border=true" alt="Sequência de contribuições no GitHub" />
   </a>
-  <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadolnyJoao&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;hide=C%23,ShaderLab,HLSL" alt="Linguagens mais usadas nos repositórios" />
-  </a>
 </p>
 
 ## Contato
