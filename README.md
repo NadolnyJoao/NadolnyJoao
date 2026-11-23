@@ -20,7 +20,7 @@ Jogo educativo desenvolvido em equipe como trabalho de conclusão do curso técn
 
 ## Tecnologias e estudos
 
-**Linguagens** · C, Java, C++ e C#  
+**Linguagens** · C, Java e C#  
 **Ferramentas** · Git e Linux
 
 Atualmente, estudo **estruturas de dados em C** e pratico o uso de ponteiros e alocação dinâmica para armazenar e processar dados.
