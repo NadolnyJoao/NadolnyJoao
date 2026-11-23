@@ -2,28 +2,36 @@
 
 Estudante de **Sistemas de Informação na UTFPR** e técnico em **Programação de Jogos Digitais pelo IFPR**.
 
-Desenvolvo projetos em **C** e **Java**, de ferramentas de linha de comando a aplicações orientadas a objetos. Busco fortalecer minha base no desenvolvimento de software.
+Crio projetos práticos em **C** e **Java** e envolvem estruturas de dados, ponteiros, alocação dinâmica, orientação a objetos e ferramentas de linha de comando ou interfaces gráficas.
 
 ## Projetos em destaque
 
-### [SHIT — Simple Hash Information Tracker](https://github.com/NadolnyJoao/SHIT---Simple-Hash-Information-Tracker)
+### [Mini Git em C — SHIT (Simple Hash Information Tracker)](https://github.com/NadolnyJoao/SHIT---Simple-Hash-Information-Tracker)
 
-Sistema de controle de versão em **C**, inspirado no Git e desenvolvido com [Pedro Vitor](https://github.com/PedroVitor-oss). Usa hashes para identificar o conteúdo dos arquivos e snapshots para registrar versões. Permite adicionar arquivos, criar commits, consultar o histórico e restaurar uma versão anterior.
+Sistema de controle de versão em **C**, inspirado no Git, desenvolvido em dupla com [Pedro Vitor](https://github.com/PedroVitor-oss). Identifica arquivos por hash **SHA-1**, usa área de preparação (index) e commits encadeados. Comandos: `init`, `add`, `register`, `status`, `log` e `revert`. Build com **CMake** e testes de linha de comando em **shell script**.
 
 ### [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
 
-Aplicação em **Java** para gerenciar atividades. O projeto aplica orientação a objetos, coleções e separação de responsabilidades para organizar o código.
+Aplicação de terminal em **Java** para gerenciar tarefas (pendente, concluída ou cancelada), com filtro por status e busca sem diferenciar maiúsculas de minúsculas. Usei **orientação a objetos**, `enum`, `ArrayList` e separação de responsabilidades entre as classes. Próximo passo: persistência em banco de dados.
 
 ### [ArcheType](https://github.com/NadolnyJoao/ArcheType-TCC)
 
-Jogo educativo desenvolvido em equipe como trabalho de conclusão do curso técnico em **Programação de Jogos Digitais no IFPR**.
+Jogo educativo em **Unity (C#)**, desenvolvido em equipe como TCC do curso técnico em Programação de Jogos Digitais no IFPR. Minha parte no projeto: [SEU PAPEL NO TIME]. [Demo](LINK_DA_DEMO)
 
-## Tecnologias e estudos
+## Linux no dia a dia
 
-**Linguagens** · C, Java e C#  
-**Ferramentas** · Git e Linux
+Uso **Arch Linux com Hyprland/Sway** e **Neovim**, e mantenho minhas configurações versionadas no Git.
 
-Atualmente, estudo **estruturas de dados em C** e pratico o uso de ponteiros e alocação dinâmica para armazenar e processar dados.
+- [ArchHypr_Dotfiles](https://github.com/NadolnyJoao/ArchHypr_Dotfiles) — script que instala e configura meu ambiente desktop.
+- [Neovim-IDE](https://github.com/NadolnyJoao/Neovim-IDE) — Neovim configurado como IDE para C/C++ e outras linguagens.
+
+</details>
+
+## Tecnologias
+
+**Linguagens** · C, Java, C# e Shell  
+**Ferramentas** · Git, CMake, Linux e Neovim  
+**Conceitos** · POO, estrutura e processamento de dados
 
 ## Atividade no GitHub
 
@@ -33,4 +41,4 @@ Atualmente, estudo **estruturas de dados em C** e pratico o uso de ponteiros e a
 
 ## Contato
 
-[nadolnyjoaovitor@gmail.com](mailto:nadolnyjoaovitor@gmail.com)
+[nadolnyjoaovitor@gmail.com](mailto:nadolnyjoaovitor@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-nadolny-39139a356)
