@@ -1,50 +1,36 @@
-<h1 align="center">João Vitor Nadolny</h1>
+# João Vitor Nadolny
 
-<p align="center">
-  Estudante de Sistemas de Informação na UTFPR · Técnico em Programação de Jogos Digitais pelo IFPR
-</p>
+Estudante de **Sistemas de Informação na UTFPR** e técnico em **Programação de Jogos Digitais pelo IFPR**.
 
-<p align="center">
-  Estudo desenvolvimento <strong>back-end</strong> e pratico lógica de programação em projetos com <strong>C</strong> e <strong>Java</strong>.
-</p>
+Desenvolvo projetos em **C** e **Java**, de ferramentas de linha de comando a aplicações orientadas a objetos. Busco uma oportunidade de estágio em desenvolvimento de software.
 
 ## Projetos em destaque
 
-### [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
-
-Aplicação em **Java** para gerenciar atividades, com foco em orientação a objetos, uso de coleções e separação de responsabilidades.
-
 ### [SHIT — Simple Hash Information Tracker](https://github.com/NadolnyJoao/SHIT---Simple-Hash-Information-Tracker)
 
-Sistema de controle de versão em **C**, inspirado no Git e desenvolvido com [Pedro Vitor](https://github.com/PedroVitor-oss). O projeto explora o uso de hashes para identificar arquivos e de snapshots para registrar versões.
+Sistema de controle de versão em **C**, inspirado no Git e desenvolvido com [Pedro Vitor](https://github.com/PedroVitor-oss). Usa hashes para identificar o conteúdo dos arquivos e snapshots para registrar versões. Permite adicionar arquivos, criar commits, consultar o histórico e restaurar uma versão anterior.
 
-### [ArcheType (TCC)](https://github.com/NadolnyJoao/ArcheType-TCC)
+### [Sistema de Gerenciamento de Atividades](https://github.com/NadolnyJoao/Sistema-de-gerenciamento-de-atividades)
 
-Jogo educativo desenvolvido em equipe como trabalho de conclusão do curso técnico em Programação de Jogos Digitais no IFPR.
+Aplicação em **Java** para gerenciar atividades. O projeto aplica orientação a objetos, coleções e separação de responsabilidades para organizar o código.
 
-## Tecnologias e fundamentos
+### [ArcheType](https://github.com/NadolnyJoao/ArcheType-TCC)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Jogo educativo desenvolvido em equipe como trabalho de conclusão do curso técnico em **Programação de Jogos Digitais no IFPR**.
 
-Nos meus projetos, pratico orientação a objetos, estruturas de dados, ponteiros e alocação dinâmica.
+## Tecnologias e estudos
 
-## O que estou estudando
+**Linguagens** · C, Java, C++ e C#  
+**Ferramentas** · Git e Linux
 
-- **C e Estruturas de dados** — Desenvolvimento de programas educativos, e estruturação e processamento de dados.
+Atualmente, estudo **estruturas de dados em C** e pratico o uso de ponteiros e alocação dinâmica para armazenar e processar dados.
 
 ## Atividade no GitHub
 
 <p align="center">
-  <a href="https://github.com/NadolnyJoao">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&amp;theme=react&amp;hide_border=true" alt="Sequência de contribuições no GitHub" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&amp;theme=react&amp;hide_border=true" alt="Sequência de contribuições de NadolnyJoao no GitHub" />
 </p>
 
 ## Contato
 
-[E-mail](mailto:nadolnyjoaovitor@gmail.com) · [GitHub](https://github.com/NadolnyJoao)
+[nadolnyjoaovitor@gmail.com](mailto:nadolnyjoaovitor@gmail.com)
