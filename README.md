@@ -35,8 +35,7 @@ Nos meus projetos, pratico orientação a objetos, estruturas de dados, ponteiro
 
 ## O que estou estudando
 
-- **Java e back-end** — organização de aplicações, desenvolvimento e consumo de APIs REST.
-- **Bancos de dados** — SQL e modelagem relacional, com interesse em explorar bancos não relacionais.
+- **C e Estruturas de dados** — Desenvolvimento de programas educativos, e estruturação e processamento de dados.
 
 ## Atividade no GitHub
 
