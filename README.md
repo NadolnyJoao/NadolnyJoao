@@ -2,7 +2,7 @@
 
 Estudante de **Sistemas de Informação na UTFPR** e técnico em **Programação de Jogos Digitais pelo IFPR**.
 
-Crio projetos práticos em **C** e **Java** e envolvem estruturas de dados, ponteiros, alocação dinâmica, orientação a objetos e ferramentas de linha de comando ou interfaces gráficas.
+Crio projetos práticos em **C** e **Java** que envolvem estruturas de dados, ponteiros, alocação dinâmica, orientação a objetos e ferramentas de linha de comando ou interfaces gráficas.
 
 ## Projetos em destaque
 
