@@ -2,7 +2,7 @@
 
 Estudante de **Sistemas de Informação na UTFPR** e técnico em **Programação de Jogos Digitais pelo IFPR**.
 
-Desenvolvo projetos em **C** e **Java**, de ferramentas de linha de comando a aplicações orientadas a objetos. Busco uma oportunidade de estágio em desenvolvimento de software.
+Desenvolvo projetos em **C** e **Java**, de ferramentas de linha de comando a aplicações orientadas a objetos. Busco fortalecer minha base no desenvolvimento de software.
 
 ## Projetos em destaque
 
