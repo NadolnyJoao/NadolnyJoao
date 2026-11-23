@@ -25,7 +25,6 @@ Uso **Arch Linux com Hyprland/Sway** e **Neovim**, e mantenho minhas configuraç
 - [ArchHypr_Dotfiles](https://github.com/NadolnyJoao/ArchHypr_Dotfiles) — script que instala e configura meu ambiente desktop.
 - [Neovim-IDE](https://github.com/NadolnyJoao/Neovim-IDE) — Neovim configurado como IDE para C/C++ e outras linguagens.
 
-</details>
 
 ## Tecnologias
 
