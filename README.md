@@ -38,6 +38,10 @@ Uso **Arch Linux com Hyprland/Sway** e **Neovim**, e mantenho minhas configuraç
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadolnyJoao&amp;theme=react&amp;hide_border=true" alt="Sequência de contribuições de NadolnyJoao no GitHub" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NadolnyJoao&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;hide=c%23,shaderlab,hlsl&amp;exclude_repo=ArcheType-TCC" alt="Linguagens mais usadas nos repositórios de NadolnyJoao" />
+</p>
+
 ## Contato
 
 [nadolnyjoaovitor@gmail.com](mailto:nadolnyjoaovitor@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-nadolny-39139a356)
