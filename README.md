@@ -16,7 +16,7 @@ Aplicação de terminal em **Java** para gerenciar tarefas (pendente, concluída
 
 ### [ArcheType](https://github.com/NadolnyJoao/ArcheType-TCC)
 
-Jogo educativo em **Unity (C#)**, desenvolvido em equipe como TCC do curso técnico em Programação de Jogos Digitais no IFPR. Minha parte no projeto: [SEU PAPEL NO TIME]. [Demo](LINK_DA_DEMO)
+Jogo educativo em **Unity (C#)**, desenvolvido em equipe como TCC do curso técnico em Programação de Jogos Digitais no IFPR. Minha parte no projeto: Lider de projeto, programador, e ilustrador.
 
 ## Linux no dia a dia
 
